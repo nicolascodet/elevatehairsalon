@@ -59,9 +59,9 @@ export default function Hero() {
           REDEFINING BEAUTY
         </p>
         <p className="text-base sm:text-lg text-gray-300 mb-12 max-w-2xl mx-auto">
-          Southern California's premier destination for luxury hair styling and coloring.
+          Southern California&apos;s premier destination for luxury hair styling and coloring.
           <br />
-          Specializing in men's and women's cuts that transform.
+          Specializing in men&apos;s and women&apos;s cuts that transform.
         </p>
         
         <button
